@@ -6,7 +6,7 @@ A [Bootstrap](http://getbootstrap.com) pride theme designed for use on [Computer
 Demo
 ----
 
-A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-pride-bootstrap/4.0.0/index.html).
+A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-pride-bootstrap/4.3.1/index.html).
 
 Usage
 ------
@@ -37,7 +37,7 @@ Use CSH Pride Bootstrap without a package manager.
 ###### CSS
 
 ```
-<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-pride-bootstrap/4.0.0/dist/csh-pride-bootstrap.min.css" media="screen">
+<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-pride-bootstrap/4.3.1/dist/csh-pride-bootstrap.min.css" media="screen">
 ```
 
 ###### JS, Popper.js, and jQuery
@@ -45,7 +45,7 @@ Use CSH Pride Bootstrap without a package manager.
 ```
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 ```
 
 Development
