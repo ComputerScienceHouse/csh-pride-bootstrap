@@ -42,7 +42,7 @@
     "postcss": "^6.0.16",
     "postcss-cli": "^4.1.1",
     "postcss-flexbugs-fixes": "^3.2.0",
-    "shelljs": "^0.8.0",
+    "shelljs": "^0.8.5",
     "yargs": "^10.1.1"
   },
   "files": [
