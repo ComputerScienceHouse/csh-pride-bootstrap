@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
-    "aws-sdk": "^2.205.0",
+    "aws-sdk": "^2.814.0",
     "bootstrap": "4.3.1",
     "bootswatch": "4.3.1",
     "chalk": "^2.3.0",
